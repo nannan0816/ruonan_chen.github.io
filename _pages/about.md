@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am serving as a visiting Ph.D. student at iTrust Lab, Singapore University of Technology and Design, supervised by [_Prof. Sudiputa Chattopadhyay_](https://istd.sutd.edu.sg/people/faculty/sudipta-chattopadhyay) and [_Prof. Jianying Zhou_](https://istd.sutd.edu.sg/people/faculty/jianying-zhou). I'm pursuing my Ph.D. degree in Cyber Science and Technology at School of Cyber Science and Technology, Beihang University, under _Prof. Jianwei Liu_ and _Prof. Dawei Li_. I got my Master's degree and bachelor’s degree from School of Computer Science, Shannxi Normal University, under _Prof. Yong Yu_.
+I am serving as a visiting Ph.D. student at iTrust Lab, Singapore University of Technology and Design, supervised by [_Prof. Sudiputa Chattopadhyay_](https://istd.sutd.edu.sg/people/faculty/sudipta-chattopadhyay) and [_Prof. Jianying Zhou_](https://istd.sutd.edu.sg/people/faculty/jianying-zhou). I'm pursuing my Ph.D. degree in Cyber Science and Technology at School of Cyber Science and Technology, Beihang University, under [_Prof. Jianwei Liu_](https://cst.buaa.edu.cn/info/1111/2775.htm) and [_Prof. Dawei Li_](https://cst.buaa.edu.cn/info/1112/3055.htm). I got my Master's degree and bachelor’s degree from School of Computer Science, Shannxi Normal University, under [_Prof. Yong Yu_](https://ccs.snnu.edu.cn/info/1016/2301.htm).
 
 Research Topics
 ======
@@ -20,9 +20,3 @@ Research Topics
 
 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
