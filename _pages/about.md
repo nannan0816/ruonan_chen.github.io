@@ -17,6 +17,7 @@ Research Topics
   * Decentralized Data Storage
 - **Applied Cryptography**
   * Provable Security for Cryptographic Protocols including Digital Signatures, Encryption, and Blockchain-based Digital Concurrency
-
+ 
+Download my [_CV_](CV_Ruonan.pdf) for more details. _Latest update on <time timedate>28 Mar. 2024._
 
 
