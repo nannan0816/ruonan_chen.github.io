@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruonan Chen (陈若楠)"
+title: "Ruonan Chen"
 author_profile: true
 redirect_from: 
   - /about/
