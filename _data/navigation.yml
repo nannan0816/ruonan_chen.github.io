@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+   - title: "Posts"
+     URL: "https://github.com/nannan0816/Blockchain-papers"
     
   # - title: "CV"
   #   url: /cv/
