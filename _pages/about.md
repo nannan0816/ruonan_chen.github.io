@@ -12,7 +12,7 @@ I am serving as a visiting Ph.D. student at iTrust Lab, Singapore University of 
 Research Topics
 ======
 - **Blockchain**
-  * Nakamoto Consensus and Asynchronous Consensus Protocols
+  * Blockchain Privacy
   * Payment Channel Network
   * Decentralized Data Storage
 - **Applied Cryptography**
